@@ -38,9 +38,9 @@ Main purpose of the analysis is to predict the purchasing intentions of a visito
 •	Users visit the site for basically Administrative, information and shopping reasons, with the shopping being the major and most frequent.
 ![OSI MONTH](https://user-images.githubusercontent.com/81014662/231258548-97ee67e8-d54c-456d-bde3-f74fa45d6446.png)
 •	Most shoppers intend to shop on special days, (usually higher in this is seen in the increase in revenue made on the days compared to regular days.
-![OSI SPECIAL DAYS](https://user-images.githubusercontent.com/81014662/231245682-6d108fc6-f4c4-4f36-bd21-![OSI BROWSER](https://user-images.githubusercontent.com/81014662/231255563-eeb2e048-edc3-4308-a2a0-c276a54469f3.png)
-•	With revenue from most of the data features, it shows that most users complete their transaction and not just browse through product pages.
-34dcef8f8889.png)
+![OSI SPECIAL DAYS](https://user-images.githubusercontent.com/81014662/231245682-6d108fc6-f4c4-4f36-bd21-34dcef8f8889.png)
+With revenue from most of the data features, it shows that most users complete their transaction and not just browse through product pages.
+![OSI BROWSER](https://user-images.githubusercontent.com/81014662/231255563-eeb2e048-edc3-4308-a2a0-c276a54469f3.png)
 ![OSI ](https://user-images.githubusercontent.com/81014662/231245970-97a4003c-c37f-4718-aabb-7428227120d6.png)
 ![OSI R REVENUE](https://user-images.githubusercontent.com/81014662/231256569-f898c0cb-c1ff-4e7e-86ea-364038252ee2.png)
 ![OSI OS](https://user-images.githubusercontent.com/81014662/231258634-95e85bad-897f-47a7-aa32-5a47ef71ff6e.png)
