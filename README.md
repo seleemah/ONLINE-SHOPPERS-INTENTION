@@ -2,7 +2,7 @@
 Conducted analysis to know the purchasing intention of online shoppers.
 GITHUB TEMPLATE
 
-#RESOURCES
+# RESOURCES
 
 Data Source: 10Alytics
 
